@@ -69,6 +69,9 @@ compareStrings(s1, s2);
 #Q3.<pre> Angular - Search Movie List:, get the API response from backend and display on UI </pre>
 #Q4.<pre> Div Trasformation
 
-<p>You are given a div element (see the left figure below) with width = 50px, height = 50px and initial color blue. Your task is to translate the width to 100px height to 200px and color to light-green when the mouse hovers over it (see the &nbsp;right figure below).</p>
-The width, height and color must have a transition period of 3 seconds and must change back to the original values when the cursor mouses out of the div element.
+<p>You are given a div element (see the left figure below) with width = 50px, height = 50px and initial color blue. 
+Your task is to translate the width to 100px height to 200px and color to light-green when the mouse hovers over 
+it (see the &nbsp;right figure below).</p>
+The width, height and color must have a transition period of 3 seconds and must change back to the original
+values when the cursor mouses out of the div element.
 </pre>
