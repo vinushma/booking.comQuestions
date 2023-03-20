@@ -66,3 +66,5 @@ const s2 = "axbd#c#c";
 compareStrings(s1, s2);
 
 </pre></div>
+ #Q3.Angular - Search Movie List:, get the API response from backend and display on UI
+#Q4
