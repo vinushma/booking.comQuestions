@@ -26,10 +26,14 @@ fizzBuzz(15);
 # Question 2
 <pre class="highlight plaintext"><code>Backspace string compare
 
-Two strings are said to be the same if they are of the same length and have the same character at each index. Backspacing in a string removes the previous character in the string.
-Given two strings containing lowercase English letters and the character # which represents a backspace key, determine if the two final strings are equal. Return 1 if they are equal or 0 if they are not. Note that backspacing an empty string results in an empty string.
+Two strings are said to be the same if they are of the same length and have the same character at each index.
+Backspacing in a string removes the previous character in the string.
+Given two strings containing lowercase English letters and the character # which represents a backspace key,
+determine if the two final strings are equal. Return 1 if they are equal or 0 if they are not.
+Note that backspacing an empty string results in an empty string.
 
-In the first string, one 'x' and one 'b' are backspaced over. The first string becomes "axbc", the second string also becomes "axbc", the answer is 1
+In the first string, one 'x' and one 'b' are backspaced over. The first string becomes "axbc", 
+the second string also becomes "axbc", the answer is 1
 
 compareStrings has the following parameter(s):
 
